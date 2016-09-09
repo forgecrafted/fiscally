@@ -19,6 +19,6 @@ namespace :gem do
   require "./lib/fiscally/version"
   desc "Push the gem to RubyGems.org"
   task :push do
-    sh "gem push fiscally-#{FinishingMoves::VERSION}.gem"
+    sh "gem push fiscally-#{Fiscally::VERSION}.gem"
   end
 end

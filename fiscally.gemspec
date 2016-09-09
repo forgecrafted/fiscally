@@ -11,9 +11,13 @@ Gem::Specification.new do |s|
   s.email       = ["frank@forgecrafted.com", "chris@forgecrafted.com"]
   s.summary     = %q{Fiscal year awareness for Ruby Date and Time classes.}
   s.description = <<-EOF
-    Projects with a financial or business bent often have to deal with awareness of a fiscal year, which typically doesn't line up with a normal calendar year.
+    Projects with a financial or business bent often have to deal with awareness
+    of a fiscal year, which typically doesn't line up with a normal calendar
+    year.
 
-    The `Fiscally` gem adds the necessary awareness to your date and time objects, covering start and end dates for fiscal years and quarterly breakdowns.
+    The `Fiscally` gem adds the necessary awareness to your date and time
+    objects, covering start and end dates for fiscal years and quarterly
+    breakdowns.
   EOF
   s.homepage    = "https://github.com/forgecrafted/fiscally"
   s.license     = "MIT"

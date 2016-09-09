@@ -22,7 +22,7 @@ gem install 'fiscally'
 
 ### Ruby Version
 
-Built and tested against **`2.0.0` and above**, but "probably works"&trade; in `1.9.3`.
+Built and tested against **`2.0.0` and above**, but Probably Works&trade; in `1.9.3`.
 
 ## Usage
 
